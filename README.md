@@ -6,5 +6,5 @@
 - OOP
 - PostgresSQL
 
-![alt text](express-lunchly/static/images/customers.png)
-![alt text](express-lunchly/static/images/reservations.png)
+![alt text](static/images/customers.png)
+![alt text](static/images/reservations.png)
